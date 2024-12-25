@@ -7,7 +7,7 @@ I'm a software developer based in Nigeria, on a passionate learning journey to b
 ## 📦🔨🛠🧱⚙ Toolbox
 **Frontend Development:** `HTML 🌐` `CSS 🎨` `JS 💻` `BootStrap🅱️` `React ⚛️` `NextJS♠️` `VueJS 🅱️` `Quasar Framework ⚛️`<br>
 **Version Control:** `Git 🐙`, `GitHub 🐱‍💻`<br>
-**Backend Development:** `JavaScript 💡` `TypeScript🔑 ` `Python 🐍` ` NestJS 🚀` `MongoDB☘️` `FireBase🔥` and `PostgreSQL 🌐`<br>
+**Backend Development:** `JavaScript 💡` `TypeScript🔑 ` `Python 🐍` ` NestJS 🚀` `MongoDB☘️` `FireBase🔥` `PostgreSQL 🌐`<br>
 
 
 ## SKILLS AND EXPERIENCE
