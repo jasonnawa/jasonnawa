@@ -36,4 +36,4 @@ For a quick response, DM me on [Gmail](https://mail.google.com/mail/u/0/#inbox?c
 
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/a3/ef/85/a3ef85411a6084b9d1cf26b7c5293b5e.gif">
 
-![Jasons's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonnawa&show_icons=true&bg_color=00000000)
+![Jasons's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=jasonnawa&theme=dark&bg_color=00000000)
